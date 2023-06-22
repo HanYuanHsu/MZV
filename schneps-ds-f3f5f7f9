@@ -1,0 +1,1714 @@
+f3:=xxy- 2 xyx + yxx + xyy - 2 yxy+ yyx
+
+f5:=-4 xyxxx + yxxxx + xxxxy - 4 xxxyx + 6 xxyxx - 4 yxyyy+ 6 yyxyy
+     - 4 yyyxy+ yyyyx + xyyyy- 11/2 xxyxy + 9/2 yxxyx + 2 xxyyy 
+     - 11/2 xyxyy+ 2 yxyxy - 11/2 yxyxx - 1/2 yyxxy + 2 yyxxx - 1/2 yxxyy
+     - 11/2 yyxyx + 2 yyyxx + 9/2 xyxxy+ 9/2 xyyxy - 3 xyyyx + 2 xyxyx
+     + 9/2 yxyyx - 1/2 xyyxx - 1/2 xxyyx - 3 yxxxy + 2 xxxyy
+
+f7:=yxxxxxx - 6 xxxxxyx + 15 xxxxyxx - 20 xxxyxxx + 15 xxyxxxx - 6 xyxxxxx
+     + xxxxxxy + xyyyyyy - 20 yyyxyyy + 15 yyyyxyy - 6 yyyyyxy + yyyyyyx
+     - 6 yxyyyyy + 15 yyxyyyy - 109/16 xxxyyyx - 221/16 xxyxyyy
+    - 4 xyyyyyx + 17 yyyxyyx + 5/8 xxxyyxy - 4 xyyxxxx - 2 xxyyyyx - 18 yxxxyxx
+     + 10 yxyxyyy - 4 yxyyyxy -67/16 yxxyyxy + 5/8 yxyyxxx
+     + 10 yxxxxyx + 61/8 xxyxxyy
+
+     + 61/8 xxyyyxx - 179/16 yxyxxyy
+
+     - 11 yxyxxxx + 131/8 yxxyxyy
+
+       115
+     + 115/16 yxxxyxy + 3 yyxxxxx
+       16
+
+     + 10 yxyyyyx - 2 xyxyxyx
+
+     -  291/16 xyyxyxy - 67/16 xyyxxyx
+     + 10 xyxxxxy + 157/16 xxyxyxy
+     + 5 yyyxxxx + 157/16 yyxyxyx
+     + 3 yyxyyxy + 3 yxyyxyy
+     + 17 xyyxyyy + 61/8 yyxxxyy
+     - 1/4 yyxxyyx - 11 xyxyyyy
+     + 5/8 yyyxxyx + 3 yyyxxyy
+     - 109/16  yxyyyxx - 18 yyxyxyy
+     - 18 xyyyxyy - 11 yyyyxyx
+     - 109/16 yxxxyyy - 18 yyxyyyx
+     + 61/8 yxxyyyx - 67/16 xyxxyyx
+     - 4 yyyyxxy - 221/16 xxxyxyy
+     + 10 xyyyyxy + 5 yyyyxxx
+     - 179/16 yyxxyxy + 3 yyxxyyy
+     - 4 xxxxyyx - 67/16 yxyyxxy
+     + 61/8 xyyxxxy - 109/16 yyxxxyx
+     + 75/8 yxyxxyx - 1/4 xxyyxxy
+     + 115/16 yxyxxxy - 4 xyxxxyx
+     + 10 xyxyxxx + 3 xxyyxxx
+     + 115/16 xyxyyyx + 5 xxxxyyy
+     + 3 xyxxyxx + 3 xxxxxyy
+     + 3 xxyxxyx - 18 xxyxyxx
+     + 61/8 xyyyxxy - 4 yxxyyyy
+     - 1/4 yxxyyxx - 109/16 yyyxxxy
+     - 51/8 yxxyxxy
+     + 61/8 yyxyyxx + 17 xxxyxxy
+     - 1/4 xyyxxyy - 2 yxyxyxy
+     - 109/16 xyyyxxx + 3 xxyyyyy
+     - 291/16 yxyxyyx + 75/8 xyxyyxy
+     + 157/16 xyxyxyy + 10 xxxyxyx
+     + 5/8 xyxxyyy - 11 xxxxyxy
+     - 109/16 xxyyyxy + 61/8 xxyyxyy
+     + 3 xxxyyxx + 5 xxxyyyy
+     - 221/16 yyxyxxx + 61/8 yyxxyxx
+     + 157/16 yxyxyxx - 291/16 yxxyxyx
+     - 18 xxyxxxy + 75/8 xyxxyxy
+     - 179/16 xyxyyxx + 3 yyyyyxx
+     - 109/16 xyxxxyy - 179/16 xxyyxyx
+     + 131/8 xxyxyyx
+     + 131/8 xyyxyxx - 4 yxxxxxy
+     - 2 xyyyyxx + 75/8 yxyyxyx
+     - 51/8 xyyxyyx + 115/16 xyyyxyx
+     - 2 yyxxxxy - 221/16 yyyxyxx
+     + 17 yxxyxxx + 10 yyyxyxy
+     - 2 yxxxxyy - 291/16 xyxyxxy
+     + 61/8 yxxxyyx
+     + 131/8 yyxyxxy
+
+
+f9:=yxxxxxxxx - 8 xyxxxxxxx - 8 xxxxxxxyx + 28 xxxxxxyxx - 56 xxxxxyxxx 
++ 70 xxxxyxxxx - 56 xxxyxxxxx + 28 xxyxxxxxx + xxxxxxxxy + xyyyyyyyy
+     + 28 yyyyyyxyy - 8 yyyyyyyxy + yyyyyyyyx - 8 yxyyyyyyy + 28 yyxyyyyyy
+     - 56 yyyxyyyyy + 70 yyyyxyyyy - 56 yyyyyxyyy + 29/2 xxyyxxxxx 
+
+       265
+     + --- xyyyxxxyx
+       36
+
+       3227
+     + ---- xxxyxxyyy
+       144
+
+       1421
+     - ---- yxxyyxxxy
+       144
+
+     + 28 xxxyxxyxx
+
+       149
+     + --- xxyxxyyyx
+       24
+
+     + 4 xxxyxxxyx
+
+       2123
+     + ---- yxxyxxxyy
+        48
+
+     + 28 yyxyyxyyy
+
+       251
+     - --- xyxyyxxyy
+       24
+
+       5707
+     + ---- yyxxyxyxy
+       144
+
+       889
+     - --- xyxxyxyxy
+       16
+
+       5375
+     + ---- yyxyxxxxy
+       144
+
+       455
+     + --- xyxyyxyxy
+       16
+
+     + 28 xyxyxxxxx
+
+       19
+     - -- xyyyyxxyx
+       48
+
+       551
+     + --- yxxxxxyyx
+       36
+
+       845
+     + --- xxxxyxxyy
+       24
+
+       1297
+     + ---- xxyxxxyyx
+        36
+
+     - 328/9 xxxyxxxyy
+
+     + 14 yyyyxxxxx
+
+       4067
+     - ---- yyxyyyxxx
+       144
+
+     - 43/2 yxyyyxxyy
+
+       5707
+     + ---- yxyxyxxyy
+       144
+
+       1009
+     + ---- xyxxyyyxy
+        36
+
+       121
+     + --- yyyyxxyyx
+       12
+
+       2059
+     + ---- yyxxyxxyy
+        72
+
+       131
+     - --- xyyyyxxyy
+       12
+
+       149
+     + --- xyyyxxyxx
+       24
+
+       361
+     + --- yyxyyxxxx
+       144
+
+       1009
+     + ---- yyxyyxyxx
+        36
+
+       53
+     - -- xxxyxxyxy
+       36
+
+       1009
+     + ---- yxyyxxxyx
+        36
+
+       593
+     + --- xxyxxxyxy
+       36
+
+       881
+     - --- yyyxxxxxy
+       72
+
+     + 2 xyxyxyxyx
+
+       641
+     + --- xyyxyxyxy
+       16
+
+     + 1/3 yxxyxxyxx
+
+       455
+     + --- xyxyxxyxy
+       16
+
+       4067
+     - ---- xxyxxxyyy
+       144
+
+     - 127/2 xxxxyxxxy
+
+       265
+     + --- yxyyyyxxx
+       144
+
+       1235
+     + ---- xyyxyxyyx
+        24
+
+       3721
+     + ---- yxxyyyxxx
+       144
+
+     + 83/2 xxxxxyxxy
+
+       1187
+     - ---- yxyxyyxxx
+        36
+
+       391
+     - --- xyyxxxxyy
+       144
+
+     - 13/2 xxxyyxxxx
+
+     - 37/2 xxxxxxyxy
+
+       1501
+     + ---- yxyyxyxxx
+        36
+
+     + 115/3 yxyyxyxyy
+
+     + 4 xxxxxxxyy
+
+       2765
+     - ---- yxyyyxxxx
+       144
+
+       1009
+     + ---- xxyxxyxyy
+        36
+
+     - 59 yyyxyxyyx
+
+       3227
+     + ---- yyyxyyxxx
+       144
+
+     - 56/3 yyyxyxyxy
+
+       115
+     + --- yyyxxyyyx
+       18
+
+       1909
+     - ---- yyyyxyxxx
+        48
+
+     + 14 yyyyyxxxx
+
+       1909
+     - ---- yyyxyxxxx
+        48
+
+     - 37/2 yxyxxxxxx
+
+     + 83/2 yxxyxxxxx
+
+     - 59/2 xyyxxxyxy
+
+       53
+     - -- yxyxxyxxx
+       36
+
+     + 125/2 yxxxxyxxx
+
+     - 127/2 yxxxyxxxx
+
+       593
+     + --- yxyxxxyxx
+       36
+
+     + 115/3 xxyxyxxyx
+
+       53
+     - -- yyyxyyxyx
+       36
+
+     + 35/2 yxxxxxxyx
+
+     - 85/2 yxxxxxyxx
+
+     - 137/3 yxyxyyxyy
+
+     - 1/2 yxyyxxyyy
+
+     - 5 yxxxxxxxy
+
+       803
+     + --- yxyxyyyxx
+       36
+
+     - 56/3 yxyxyxyyy
+
+     + 35/2 xyxxxxxxy
+
+     - 91/6 yxyyxyyxx
+
+       331
+     + --- xyxyyxyxx
+       144
+
+       1637
+     - ---- yxyyxyxxy
+       144
+
+     - 85/2 xxyxxxxxy
+
+     + 125/2 xxxyxxxxy
+
+       989
+     + --- yxyyyxyxx
+       72
+
+       1501
+     + ---- xyxxyxyyy
+        36
+
+       313
+     - --- yyyyyxxyx
+       36
+
+       115
+     + --- xxxyyxxxy
+       18
+
+       131
+     - --- yyxxyyyyx
+       12
+
+       455
+     + --- yxyxyyxyx
+       16
+
+     - 97/6 xyyxyyxyx
+
+       641
+     + --- yxyxyxyyx
+       16
+
+       2513
+     + ---- yyyyxyxyx
+        72
+
+       5375
+     + ---- yxxxxyxyy
+       144
+
+       881
+     - --- yxxxxxyyy
+       72
+
+     - 19/2 xyyxxxxxx
+
+       1009
+     + ---- yyxyxxyxx
+        36
+
+     + 16/3 xyxyxxxyx
+
+       341
+     + --- yyxxxxxyy
+       36
+
+       845
+     + --- yyxxyxxxx
+       24
+
+       2123
+     + ---- yyxxxyxxy
+        48
+
+     + 1/8 xxyyxxyyx
+
+     - 97/6 yxyxxyxxy
+
+       187
+     + --- yxyxxxyxy
+       72
+
+     - 97/6 yxxyxxyxy
+
+     - 328/9 yyxxxyxxx
+
+     - 43/2 xxyyxxxyx
+
+     + 4 yyxxxxxxx
+
+       2123
+     + ---- xyyxyyyxx
+        48
+
+       661
+     - --- xyxyxyyyx
+       36
+
+       2059
+     + ---- xxyyxyyxx
+        72
+
+       3019
+     - ---- xyxyyyyxx
+       144
+
+       6167
+     - ---- yyxxyxxxy
+       144
+
+       2549
+     - ---- xxyyyxyxx
+        72
+
+       341
+     + --- xxyyyyyxx
+       36
+
+     - 97/6 xyxyyxyyx
+
+       3019
+     - ---- xxyyyyxyx
+       144
+
+       1013
+     + ---- xxyyyyxxx
+       144
+
+       2123
+     + ---- xxyyyxyyx
+        48
+
+       1345
+     + ---- xxxyxyyyx
+        36
+
+       493
+     - --- xxxyyxyyx
+       36
+
+       1181
+     + ---- xxxyyyxyx
+        72
+
+       6167
+     - ---- xxyyxyyyx
+       144
+
+       5375
+     + ---- xxyxyyyyx
+       144
+
+     - 53 xxxxyxyxx
+
+       1345
+     + ---- xyyyxyxxx
+        36
+
+       881
+     - --- xxxyyyyyx
+       72
+
+       493
+     - --- xyyxyyxxx
+       36
+
+     + 52 xxxyxyxxx
+
+       3019
+     - ---- yyxxxxyxy
+       144
+
+     + 28 xxxxxyxyx
+
+     - 19/2 xxxxxxyyx
+
+       1181
+     + ---- xyxyyyxxx
+        72
+
+       1949
+     - ---- xyyyyxxxx
+       144
+
+       331
+     + --- xxyxyyxyx
+       144
+
+     + 46 yyxyxyyyx
+
+     + 1/3 yyxyyxyyx
+
+       593
+     + --- yyxyyyxyx
+       36
+
+     + 25 xxyxxxxyx
+
+       881
+     - --- xyyyyyxxx
+       72
+
+     + 16/3 xyxxxyxyx
+
+       1235
+     + ---- yxxyxyxxy
+        24
+
+       5375
+     + ---- xyyyyxyxx
+       144
+
+       1949
+     - ---- xxxxyyyyx
+       144
+
+       391
+     - --- xxyyyyxxy
+       144
+
+       6167
+     - ---- xyyyxyyxx
+       144
+
+       461
+     - --- xyxxxxxyy
+       72
+
+       989
+     + --- yyxyxxxyx
+       72
+
+       2549
+     - ---- xxyxyyyxx
+        72
+
+       3019
+     - ---- yxyxxxxyy
+       144
+
+     + 115/3 xyxxyxyxx
+
+       803
+     + --- xyxyxxxyy
+       36
+
+       8063
+     - ---- xyyxyxyxx
+       144
+
+       835
+     - --- yxyxxyyyy
+       72
+
+       493
+     - --- yyyxxyxxy
+       36
+
+     - 61/6 xxyyyxxyx
+
+       1159
+     + ---- yxyxxxxxy
+        72
+
+       187
+     + --- xyxyyyxyx
+       72
+
+       5707
+     + ---- xxyyxyxyx
+       144
+
+       439
+     + --- xyxxxxyxy
+       36
+
+       8063
+     - ---- xxyxyxyyx
+       144
+
+       1205
+     - ---- yxyyxxyxx
+        72
+
+     + 83/6 yyxxyyxyy
+
+       803
+     + --- yyxxxyxyx
+       36
+
+       265
+     + --- yyyxxxxyx
+       144
+
+       2765
+     - ---- xyxxxyyyy
+       144
+
+       1637
+     - ---- yxxyxyyxy
+       144
+
+       619
+     - --- xyxxxxyyx
+       72
+
+       1945
+     - ---- yyxxyxyyy
+        36
+
+     - 20 xyxxxxxyx
+
+       593
+     + --- yyxxxyyyy
+       24
+
+       661
+     - --- xyyyxyxyx
+       36
+
+     - 43/2 xyxxxyyxx
+
+       1205
+     - ---- xyxxyyxyy
+        72
+
+       845
+     + --- yyyxyxyxx
+       24
+
+       265
+     + --- xyxxxxyyy
+       144
+
+       1217
+     - ---- yxxxyyyyy
+        72
+
+       1081
+     - ---- xxxyxxyyx
+        36
+
+       5707
+     + ---- xyxyxyyxx
+       144
+
+     - 13/2 yyyxxyyyy
+
+     + 31/8 xyxxyyxxy
+
+       361
+     + --- yyyyxxyxx
+       144
+
+       4067
+     - ---- yyyxxxyxx
+       144
+
+       391
+     - --- yyxxxxyyx
+       144
+
+     - 25/6 yxxxxxxyy
+
+       455
+     + --- yxyxxyxyx
+       16
+
+       1567
+     - ---- xyxxxyxxy
+        36
+
+       115
+     + --- yxxxyyxxx
+       18
+
+       989
+     + --- xyxxxyxyy
+       72
+
+       839
+     + --- yxyxxyyyx
+       72
+
+       1009
+     + ---- xyxxxyyxy
+        36
+
+     - 61/6 xyxxyyyxx
+
+     + 83/6 yyxyyxxyy
+
+       889
+     - --- yxyyxyxyx
+       16
+
+       661
+     - --- yxxxyxyxy
+       36
+
+     + 217/8 xyyxxyxxy
+
+       1637
+     - ---- xyxxyxyyx
+       144
+
+       1567
+     + ---- xyxxyxxxy
+        36
+
+     + 25 xyxxxxyxx
+
+       1945
+     - ---- yyyxyxxyy
+        36
+
+       641
+     + --- xyxyxyxxy
+       16
+
+     - 59/2 yxyxxxyyx
+
+       265
+     + --- xyxxxyyyx
+       36
+
+     + 29/2 xxxxxyyxx
+
+       593
+     + --- yyyyxxxyy
+       24
+
+       8063
+     - ---- yyxyxyxxy
+       144
+
+     - 1/2 xxxyyxxyx
+
+       403
+     - --- xyxxyyxyx
+       144
+
+     + 4 xyxxxyxxx
+
+       223
+     - --- yxyxyxyxx
+       16
+
+     + 106/3 xxyxyxyxx
+
+     - 17 xyxxyxxxx
+
+     - 25/6 yyxxxxxxy
+
+     - 59/2 xyxyyyxxy
+
+       889
+     - --- yxyxyxxyx
+       16
+
+       391
+     - --- yxxyyyyxx
+       144
+
+     - 137/3 xxyxxyxyx
+
+     - 137/3 xyxyxxyxx
+
+       251
+     - --- yxyxxyyxx
+       24
+
+     + 83/6 xxyyxxyxx
+
+     - 2/3 xyxxyxxyx
+
+     + 31/8 yxxyyxxyx
+
+     - 13/2 xxxxyyxxx
+
+     + 217/8 xyyxyyxxy
+
+       3227
+     + ---- yyyxxyxxx
+       144
+
+     + 83/6 xxyxxyyxx
+
+       2125
+     - ---- xyyyxyxxy
+        36
+
+       559
+     - --- yxxxxyxxy
+       24
+
+       845
+     + --- xxyxyxyyy
+       24
+
+     - 56/3 xxxyxyxyx
+
+       2879
+     - ---- xxyxyyxxy
+        72
+
+       1013
+     + ---- xxxyyyyxx
+       144
+
+       619
+     - --- xyyxxxxyx
+       72
+
+       1187
+     - ---- xyxyxxyyy
+        36
+
+     + 46 yxxxyxyxx
+
+     - 367/8 yyxyxyyxx
+
+       1681
+     + ---- yyyyxyxxy
+        36
+
+       1009
+     + ---- yxyyyxxyx
+        36
+
+       3721
+     + ---- xyyxxxyyy
+       144
+
+       661
+     - --- yxyxyxxxy
+       36
+
+       361
+     + --- xxyxxyyyy
+       144
+
+       3227
+     + ---- xyyyyxxxy
+       144
+
+       1081
+     - ---- yyyxyyxxy
+        36
+
+       865
+     + --- yyxxyyyxx
+       48
+
+     - 61/6 yxyyxxxyy
+
+       1181
+     + ---- yxyxxxyyy
+        72
+
+       1297
+     + ---- xyyxxxyxx
+        36
+
+       223
+     - --- xyxyxyxyy
+       16
+
+     - 367/8 xxyxyxxyy
+
+       3389
+     + ---- xxyyxyxxy
+        72
+
+       1081
+     - ---- xyyxxyxxx
+        36
+
+       1217
+     - ---- yyyyyxxxy
+        72
+
+       865
+     + --- xxyyxxxyy
+       48
+
+       1283
+     + ---- yxyxyyxxy
+        48
+
+     - 91/6 yyxxyxxyx
+
+       559
+     + --- yxxxyxxxy
+       18
+
+       403
+     - --- yxyyxxyxy
+       144
+
+       6167
+     - ---- yxxxyxxyy
+       144
+
+     - 53 xxyxyxxxx
+
+       19
+     - -- yxyyxxxxy
+       48
+
+       1567
+     + ---- yxxxyxxyx
+        36
+
+       2879
+     - ---- xyyxxyxyy
+        72
+
+       103
+     + --- xxyyxxyyy
+       144
+
+       331
+     + --- yxyxxyxyy
+       144
+
+       461
+     - --- xxyyyyyxy
+       72
+
+       341
+     + --- xxyyyyxyy
+       24
+
+       403
+     - --- yxyxxyyxy
+       144
+
+     - 328/9 xxyyyxyyy
+
+       845
+     + --- xxyyxyyyy
+       24
+
+       2189
+     - ---- xxyxyyyyy
+        72
+
+     + 28/3 xxxyyyyyy
+
+       1205
+     - ---- yyxyyxxyx
+        72
+
+     + 217/8 yxxyxxyyx
+
+       1187
+     - ---- yyyxxyxyx
+        36
+
+       551
+     + --- xyyyyyxxy
+       36
+
+       2549
+     - ---- yyxyxxxyy
+        72
+
+       3319
+     - ---- xyyyyxyxy
+        72
+
+       1567
+     + ---- xyyyxyyxy
+        36
+
+       1567
+     - ---- xyyxyyyxy
+        36
+
+       439
+     + --- xyxyyyyxy
+       36
+
+       3227
+     + ---- yxxxyyyyx
+       144
+
+       331
+     + --- yyxyxxyxy
+       144
+
+       467
+     - --- yyyxxxyyy
+       18
+
+       1189
+     + ---- yyxyxxyyy
+        36
+
+       103
+     + --- yyyxxyyxx
+       144
+
+       2765
+     - ---- yyyyxxxyx
+       144
+
+       2879
+     - ---- yyxyxxyyx
+        72
+
+     + 1/3 xxyxxyxxy
+
+       223
+     - --- yyxyxyxyx
+       16
+
+       1189
+     + ---- yyyxxyxyy
+        36
+
+       1297
+     + ---- yyxyyyxxy
+        36
+
+     + 106/3 yyxyxyxyy
+
+       3721
+     + ---- yyyxxxyyx
+       144
+
+       619
+     - --- yxyyyyxxy
+       72
+
+       551
+     + --- yxxyyyyyx
+       36
+
+     - 127/2 xyyyxyyyy
+
+       619
+     - --- yxxyyyyxy
+       72
+
+     + 83/2 xyyxyyyyy
+
+       265
+     + --- yxxxyyyxy
+       36
+
+       1297
+     + ---- yxxyyyxyy
+        36
+
+     - 37/2 xyxyyyyyy
+
+     + 4 xxyyyyyyy
+
+       865
+     + --- yyxxxyyxx
+       48
+
+       2125
+     - ---- yxxxyxyyx
+        36
+
+     - 367/8 yyxxyxyxx
+
+       889
+     - --- xyxyxyyxy
+       16
+
+     - 328/9 yyyxyyyxx
+
+     - 17 yyyyxyyxy
+
+       341
+     + --- yyxyyyyxx
+       24
+
+     + 4 yyyxyyyxy
+
+       461
+     - --- yxyyyyyxx
+       72
+
+     + 25 yyxyyyyxy
+
+       439
+     + --- yxyyyyxyx
+       36
+
+     - 20 yxyyyyyxy
+
+       839
+     + --- yxxxyyxyx
+       72
+
+       1567
+     - ---- yxyyyxyyx
+        36
+
+     - 85/2 xyyyyyxyy
+
+       1567
+     + ---- yxyyxyyyx
+        36
+
+       3319
+     - ---- yxyxyyyyx
+        72
+
+     + 125/2 xyyyyxyyy
+
+     + 28/3 xxxxxxyyy
+
+     - 17 yxyyxyyyy
+
+     + 28 yxyxyyyyy
+
+     + 2 yxyxyxyxy
+
+       3227
+     + ---- yxxxxyyyx
+       144
+
+     - 19/2 yxxyyyyyy
+
+       397
+     - --- xxyyyxxxy
+       16
+
+     + 28/3 yyyyyyxxx
+
+       2189
+     - ---- yyyyyxyxx
+        72
+
+     - 19/2 yyyyyyxxy
+
+       845
+     + --- yyyyxyyxx
+       24
+
+       103
+     + --- xxxyyxxyy
+       144
+
+     + 28 yyyyyxyxy
+
+       1567
+     - ---- yxxyxxxyx
+        36
+
+       131
+     - --- xxyyxxxxy
+       12
+
+     - 127/2 yyyyxyyyx
+
+     + 31/8 xyyxxyyxy
+
+       1421
+     - ---- yxxxyyxxy
+       144
+
+     + 46 xxyxyxxxy
+
+     + 125/2 yyyxyyyyx
+
+     - 85/2 yyxyyyyyx
+
+     - 59 xxxyxyxxy
+
+       1013
+     + ---- yyyxxxxyy
+       144
+
+       3389
+     + ---- yxxyxyyxx
+        72
+
+       551
+     + --- xyyxxxxxy
+       36
+
+       313
+     - --- xxxxxyyxy
+       36
+
+       559
+     - --- yxxyxxxxy
+       24
+
+     + 25 yxyyyyxyy
+
+       103
+     + --- yyxxyyxxx
+       144
+
+       2513
+     + ---- xxxxyxyxy
+        72
+
+       2125
+     - ---- yxxyxyyyx
+        36
+
+     + 4 yxyyyxyyy
+
+       2189
+     - ---- xxxxxyxyy
+        72
+
+       641
+     + --- yxxyxyxyx
+       16
+
+       1345
+     + ---- yyyxyxxxy
+        36
+
+     - 91/6 xyxxyxxyy
+
+       845
+     + --- xxxyxyxyy
+       24
+
+     - 56/3 xyxyxyxxx
+
+     + 1/8 yyxxyyxxy
+
+       8063
+     - ---- yxxyxyxyy
+       144
+
+       3319
+     - ---- xyxyxxxxy
+        72
+
+     + 4 yyyyyyyxx
+
+     - 37/2 yyyyyyxyx
+
+       839
+     + --- xyyyxxyxy
+       72
+
+       1283
+     + ---- xyxyxxyyx
+        48
+
+       397
+     - --- yxxxyyyxx
+       16
+
+       1421
+     - ---- xyyxxyyyx
+       144
+
+       149
+     + --- yyxyyxxxy
+       24
+
+       121
+     + --- xxxxyyxxy
+       12
+
+     + 83/2 yyyyyxyyx
+
+       1181
+     + ---- yyyxxxyxy
+        72
+
+       2879
+     - ---- yxxyyxyxx
+        72
+
+       131
+     - --- yxxxxyyxx
+       12
+
+       559
+     - --- xyyxyyyyx
+       24
+
+       493
+     - --- yxxyxxyyy
+       36
+
+       121
+     + --- yxxyyxxxx
+       12
+
+       1501
+     + ---- yyyxyxxyx
+        36
+
+       1159
+     + ---- xyxyyyyyx
+        72
+
+     + 1/8 yxxyyxxyy
+
+     - 59 yxxyxyxxx
+
+       439
+     + --- yxyxxxxyx
+       36
+
+       1681
+     + ---- yxxyxyyyy
+        36
+
+     + 217/8 yxxyyxyyx
+
+       845
+     + --- yyxyxyxxx
+       24
+
+       865
+     + --- xxyyyxxyy
+       48
+
+       1949
+     - ---- yyyyxxxxy
+       144
+
+       3319
+     - ---- yxxxxyxyx
+        72
+
+       341
+     + --- xxyxxxxyy
+       24
+
+     - 1/2 xyxxyyxxx
+
+       1159
+     + ---- yxxxxxyxy
+        72
+
+       1295
+     - ---- xyyxxxyyx
+        72
+
+       1283
+     + ---- xyyxxyxyx
+        48
+
+     - 25/6 xxyyyyyyx
+
+       397
+     - --- xyyyxxxyy
+       16
+
+     - 56 xxyxxxyxx
+
+       251
+     - --- yyxxyyxyx
+       24
+
+     + 28/3 yyyxxxxxx
+
+     - 25/6 xyyyyyyxx
+
+       397
+     - --- yyxxxyyyx
+       16
+
+       2189
+     - ---- yyxyxxxxx
+        72
+
+       1159
+     + ---- xyyyyyxyx
+        72
+
+       313
+     - --- yxyyxxxxx
+       36
+
+       559
+     - --- xyyyyxyyx
+       24
+
+     - 59/2 yxxyyyxyx
+
+       2513
+     + ---- yxyxyxxxx
+        72
+
+       559
+     + --- xyyyxyyyx
+       18
+
+     + 35/2 yxyyyyyyx
+
+       1421
+     - ---- xyyyxxyyx
+       144
+
+     + 28 xxyxxyxxx
+
+     + 52 yyyxyxyyy
+
+       3389
+     + ---- yyxxyxyyx
+        72
+
+     - 5 xyyyyyyyx
+
+       839
+     + --- xyxyyxxxy
+       72
+
+     + 35/2 xyyyyyyxy
+
+     - 367/8 xxyyxyxyy
+
+       251
+     - --- xxyyxxyxy
+       24
+
+       19
+     - -- yxxxxyyxy
+       48
+
+     + 31/8 yxyyxxyyx
+
+       403
+     - --- xyxyyxxyx
+       144
+
+       1081
+     - ---- yxxyyxyyy
+        36
+
+     - 13/2 yyyyxxyyy
+
+       149
+     + --- yxxxyyxyy
+       24
+
+       1345
+     + ---- yxxxyxyyy
+        36
+
+       1949
+     - ---- yxxxxyyyy
+       144
+
+       1013
+     + ---- yyxxxxyyy
+       144
+
+       1681
+     + ---- xyyxyxxxx
+        36
+
+       2513
+     + ---- xyxyxyyyy
+        72
+
+       1217
+     - ---- xyyyxxxxx
+        72
+
+     + 115/3 yyxyxyyxy
+
+       835
+     - --- xyxyyxxxx
+       72
+
+       2549
+     - ---- yyxxxyxyy
+        72
+
+       1009
+     + ---- xxyxyyxyy
+        36
+
+       1945
+     - ---- xxyyxyxxx
+        36
+
+       593
+     + --- xxyyyxxxx
+       24
+
+       1217
+     - ---- xxxxxyyyx
+        72
+
+       2125
+     - ---- xyyxyxxxy
+        36
+
+       1681
+     + ---- xxxxyxyyx
+        36
+
+     - 43/2 yyxxyyyxy
+
+     - 61/6 yyxxxyyxy
+
+     - 137/3 yyxyyxyxy
+
+       835
+     - --- xxxxyyxyx
+       72
+
+       223
+     - --- xxyxyxyxy
+       16
+
+       593
+     + --- xxxxyyyxx
+       24
+
+       53
+     - -- xyxyyxyyy
+       36
+
+       1909
+     - ---- xxxyxyyyy
+        48
+
+     - 59 xyyxyxyyy
+
+       361
+     + --- xxxxyyxyy
+       144
+
+     + 16/3 yxyxyyyxy
+
+       1945
+     - ---- xxxyxyyxx
+        36
+
+       3227
+     + ---- xxxyyxyyy
+       144
+
+     - 2/3 yxyyxyyxy
+
+       1189
+     + ---- xxxyyxyxx
+        36
+
+     - 56 yyxyyyxyy
+
+       4067
+     - ---- xxxyyyxyy
+       144
+
+       467
+     - --- xxxyyyxxx
+       18
+
+       115
+     + --- xyyyxxyyy
+       18
+
+       3389
+     + ---- xyyxyxxyy
+        72
+
+     + 14 xxxxyyyyy
+
+       1189
+     + ---- xxyxyyxxx
+        36
+
+       1283
+     + ---- yxxyyxyxy
+        48
+
+       19
+     - -- xyxxyyyyx
+       48
+
+       313
+     - --- xyxxyyyyy
+       36
+
+       265
+     + --- yxyyyxxxy
+       36
+
+     - 53 yyyyxyxyy
+
+     - 1/2 yyyxxyyxy
+
+       1295
+     - ---- yxxyyyxxy
+        72
+
+     + 14 xxxxxyyyy
+
+       1637
+     - ---- xyyxyxxyx
+       144
+
+     + 28 yyyxyyxyy
+
+       1909
+     - ---- xxxxyxyyy
+        48
+
+       1501
+     + ---- xxxyxyyxy
+        36
+
+       989
+     + --- xxyxyyyxy
+       72
+
+       835
+     - --- yyyyxxyxy
+       72
+
+       1187
+     - ---- xxxyyxyxy
+        36
+
+     - 91/6 xxyyxyyxy
+
+       803
+     + --- xxyyyxyxy
+       36
+
+       3721
+     + ---- xxxyyyxxy
+       144
+
+     + 29/2 yyyyyxxyy
+
+       1205
+     - ---- xxyxxyyxy
+        72
+
+     - 17 xxxxyxxyx
+
+       121
+     + --- xyyxxyyyy
+       12
+
+       3227
+     + ---- xyyyxxxxy
+       144
+
+       2765
+     - ---- xxxxyyyxy
+       144
+
+     + 46 xyyyxyxyy
+
+       461
+     - --- yyxxxxxyx
+       72
+
+     + 16/3 yxyyyxyxy
+
+     + 29/2 yyxxyyyyy
+
+       265
+     + --- xxxyyyyxy
+       144
+
+     + 1/3 xyyxyyxyy
+
+       341
+     + --- yyxxxxyxx
+       24
+
+     - 53 yyxyxyyyy
+
+       593
+     + --- xyxyyyxyy
+       36
+
+     + 1/8 xyyxxyyxx
+
+
